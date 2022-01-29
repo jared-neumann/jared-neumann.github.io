@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /docs/quick-start-guide/
+  - title: "Posts"
+    url: /docs/posts/
+  - title: "Projects"
+    url: /docs/projects/
+  - title: "Contact"
+    url: /docs/contact
